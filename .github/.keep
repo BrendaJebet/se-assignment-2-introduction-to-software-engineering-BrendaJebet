@@ -1,0 +1,47 @@
+Assignment: Introduction to Software Engineering Instructions: Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+Define Software Engineering: 
+What is software engineering, and how does it differ from traditional programming? 
+•	Software engineering is a practice that involves the design, development, testing and maintenance of software applications. Differs with traditional programming since it needs a structured defined methodologies.
+
+Software Development Life Cycle (SDLC): 
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. 
+1.	Requirement – gathering information and documenting user’s needs.
+2.	Design - creation of design
+3.	Implementation – writing code and building software
+4.	Testing – conducting tests to see to it that the software meets required standards
+5.	Deployment – releasing the software to users
+6.	Maintenance – upgrading of software after deployment
+Agile vs. Waterfall Models: 
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? 
+•	Agile – Iterative and incremental approach
+•	Waterfall – sequential approach flowing downwards like waterfall.
+Requirements Engineering: 
+What is requirements engineering? Describe the process and its importance in the software development lifecycle. 
+•	Requirement engineering is the gathering of information from users to know their needs and identifying system requirements.
+
+Software Design Principles:
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems? 
+•	Modularity is a principle of dividing a system into smaller parts which can be independently created or modified.
+•	It i======mproves maintainability since the modules are independent hence easier to maintain and update code. Has an improved scalability because modules can be added or removed when needed.
+Testing in Software Engineering:
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development? 
+1.	Unit testing – testing individual components of software
+2.	Integration testing – testing integration between different components.
+3.	System testing - testing the entire software as whole
+4.	Acceptance testing – testing a software against user requirements to ensure that it meets the user needs
+•	Testing is important since it helps identify and fix defects in the early stages of development leading to production of a quality software.
+
+Version Control Systems:
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features. 
+•	VCS is a software tool that track changes to a source code and as well coordinate teamwork. Include: Git
+Software Project Management:
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? 
+•	Project manager oversees the planning, execution and software delivery.
+•	Challenges faced include tight deadlines and requirement change during the development process.
+
+Software Maintenance:
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+•	Software maintenance is the continuous improvement of a software such as providing updates, and enhancing the software after deployment. Maintenance is essential since it helps maintain compatibility with evolving technological platforms.
+ Ethical Considerations in Software Engineering:
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+•	Unethical data collection
